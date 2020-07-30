@@ -1,12 +1,18 @@
+/* Background image */
 body {
   background-image: url("https://mdbootstrap.com/img/Photos/Others/images/91.jpg");
 }
+/* White backgrounds on section tags */
 section {
   background-color: white;
   margin-top: 50px;
 }
+/* Footer Element */
 .footer {
+  left: 0;
+  bottom: 0;
   width: 100%;
+  
 
 }
 h5 {
